@@ -1,6 +1,8 @@
-# Products Lens
+# [Products Lens](https://productlens.netlify.app/)
 
 This project is a product listing application built with React and Vite.
+
+👉 [Click here to view the deployed project](https://productlens.netlify.app/)
 
 ## Setup Instructions
 
